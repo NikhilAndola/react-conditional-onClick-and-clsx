@@ -1,0 +1,21 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+li {
+  color: gray;
+  cursor: pointer;
+}
+
+.list {
+  background-color: greenyellow;
+}
+
+.unselect:hover {
+  color: black;
+}
+
+.clr {
+  color: black;
+}
